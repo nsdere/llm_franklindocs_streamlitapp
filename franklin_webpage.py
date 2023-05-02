@@ -116,9 +116,6 @@ def main():
         st.write("Response:")
         st.write(response)
 
-    response2 = ask('I would like to add a new section on my Franklin webpage, including both an image and text?')
-    st.write(response2)
-
 
 if __name__ == '__main__':
     main()
